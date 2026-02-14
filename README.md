@@ -1,6 +1,6 @@
 # 💖 Valentine 26
 
-A romantic and interactive Valentine’s website built with **React + TypeScript + Vite + Tailwind CSS**.
+A romantic and interactive Valentine’s website for my boyfriend built with **React + TypeScript + Vite + Tailwind CSS**.
 
 This project was created as a heartfelt digital gift — combining storytelling, memories, music, and love into one beautiful experience.
 
